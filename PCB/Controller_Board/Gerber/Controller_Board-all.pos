@@ -1,0 +1,57 @@
+### Footprint positions - created on 2025-01-08T15:21:04+0700 ###
+### Printed by KiCad version 8.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref          Val                Package                                                   PosX       PosY       Rot  Side
+A1             A4988_Breakout_1   Pololu_Breakout-16_15.2x20.3mm                        133.1000   -75.0000  -90.0000  top
+A2             A4988_Breakout_2   Pololu_Breakout-16_15.2x20.3mm                        110.0400   -74.9000  -90.0000  top
+C1             10u                C_0805_2012Metric                                     148.8500   -83.8250  -90.0000  top
+C2             10u                C_0805_2012Metric                                     164.1900   -83.7000  -90.0000  top
+C3             10u                C_0805_2012Metric                                     129.3800  -110.2600  180.0000  top
+C4             100n               C_0402_1005Metric                                     141.4000  -102.6200  -90.0000  top
+C5             100n               C_0402_1005Metric                                     138.6000   -99.6375    0.0000  top
+C6             100n               C_0402_1005Metric                                     128.8800  -108.5100  180.0000  top
+C7             100n               C_0402_1005Metric                                     139.2000  -111.2200  -90.0000  top
+C9             1u                 C_0402_1005Metric                                     133.8000   -98.8200   90.0000  top
+C10            10n                C_0402_1005Metric                                     132.7000   -98.8200   90.0000  top
+C11            10p                C_0402_1005Metric                                     138.1800   -96.1000    0.0000  top
+C12            10p                C_0402_1005Metric                                     136.1800   -96.1000  180.0000  top
+C13            1u                 C_0402_1005Metric                                     130.2200   -97.2000    0.0000  top
+C14            100n               C_0402_1005Metric                                     135.5000   -98.8200  -90.0000  top
+C15            100u               C_Radial_D6.3mm_H11.0mm_P2.50mm                       117.3000   -68.0000  180.0000  top
+C16            100u               C_Radial_D6.3mm_H11.0mm_P2.50mm                        94.6000   -68.0000  180.0000  top
+C17            100n               C_0402_1005Metric                                     158.5000  -105.8750  -90.0000  top
+D1             LED                LED_0603_1608Metric                                   144.8000   -88.4000    0.0000  top
+D2             LED                LED_0603_1608Metric                                   160.1875   -88.6000    0.0000  top
+Electrolytic1  10u                CP_Elec_5x5.4                                         143.0000   -84.4000  180.0000  top
+Electrolytic2  10u                CP_Elec_5x5.4                                         158.6000   -84.6000  180.0000  top
+FB1            120R               L_0603_1608Metric                                     130.5125   -98.7000    0.0000  top
+J1             LS_Zero            JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical                 118.4000  -120.5000    0.0000  top
+J2             LS_Extruder        JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical                 130.0400  -120.4000    0.0000  top
+J3             IDC_Breakout       IDC-Header_2x04_P2.54mm_Vertical                       85.7000  -109.3400  180.0000  top
+J4             LS_Extruder_Power  JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical                 146.3000  -120.4000    0.0000  top
+J5             2.54_Pin_Header    PinHeader_2x04_P2.54mm_Vertical                       107.3000  -104.5600  -90.0000  top
+J6             USB_B_Micro        USB_Micro-B_Wuerth_629105150521                       159.3250  -123.6500    0.0000  top
+J7             Stepper_1          JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical                 131.8000   -67.9000  180.0000  top
+J8             Stepper_2          JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical                 108.5000   -68.0000  180.0000  top
+J9             USART1             PinHeader_1x02_P2.54mm_Vertical                       147.0750  -114.7000  -90.0000  top
+J10            PSU                TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal   175.8000   -81.0000   90.0000  top
+JP1            BOOT0              PinHeader_1x02_P2.54mm_Vertical                       144.6000  -104.7600    0.0000  top
+R1             10k                R_0402_1005Metric                                     142.1000  -105.2100  -90.0000  top
+R2             4.7k               R_0402_1005Metric                                      92.6000  -102.1900   90.0000  top
+R3             4.7k               R_0402_1005Metric                                      92.6000  -104.2900  -90.0000  top
+R4             1.5k               R_0402_1005Metric                                     141.5000  -112.4000  -90.0000  top
+R5             1.5k               R_0402_1005Metric                                     142.1850   -88.4000  180.0000  top
+R6             1.5k               R_0402_1005Metric                                     157.4775   -88.6000  180.0000  top
+R7             5.1k               R_0402_1005Metric                                     158.5000  -103.4200  -90.0000  top
+R8             10k                R_0402_1005Metric                                     140.7700  -116.1000    0.0000  top
+R9             10k                R_0402_1005Metric                                     138.1700  -116.1000    0.0000  top
+R10            10k                R_0402_1005Metric                                     135.6700  -116.1000    0.0000  top
+R11            10k                R_0402_1005Metric                                     133.0700  -116.1000    0.0000  top
+R12            10k                R_0402_1005Metric                                     130.5700  -116.1000    0.0000  top
+U1             STM32F103C8T6      LQFP-48_7x7mm_P0.5mm                                  135.3500  -105.4375  -90.0000  top
+U2             LM1086-3.3         TO-263-3_TabPin2                                      146.2250   -71.0750   90.0000  top
+U3             LM1086-5.0         TO-263-3_TabPin2                                      161.6650   -71.0750   90.0000  top
+U4             DHT22              ASAIR_AM2302_P2.54mm_Vertical                         163.1000  -105.2100   90.0000  top
+Y1             8MHz               Crystal_HC49-U_Vertical                               139.9000   -92.4000  180.0000  top
+## End
